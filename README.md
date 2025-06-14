@@ -1,2 +1,3 @@
-# CI-CD-Pipeline-Docker-Github-Actions
-Real-World DevOps Projects | Monitoring | CI/CD | Kubernetes
+# 04 - CI/CD Pipeline with GitHub Actions and Docker
+# Minor update to trigger workflow
+# Minor update to trigger workflow
