@@ -129,11 +129,11 @@ minikube service simple-node-app
 
 | ✅ GitHub Actions Success 
 
-![Screenshot from 2025-06-15 02-58-30](https://github.com/user-attachments/assets/7a5f66f5-8856-4bc2-9928-707744785d36)
+![d03e1ef2-dc4a-45f7-b2be-3beb6cc9dbaa](https://github.com/user-attachments/assets/79a1a394-842d-45a2-8333-ba40568a2b36)
 
 | ✅ Docker Hub Image  
 
-![Screenshot from 2025-06-15 03-02-03](https://github.com/user-attachments/assets/dfefa70b-899b-45ca-933d-397d88aabb49)
+![56c4795c-0418-47dc-be6a-8784e922571d](https://github.com/user-attachments/assets/d847e679-a5ff-4d00-91f7-670fa697d505)
 
 | ✅ kubectl get pods & Pod Logs/Describe 
 
@@ -141,7 +141,7 @@ minikube service simple-node-app
 
 | ✅ App Running in Browser 
 
-![Screenshot from 2025-06-15 02-58-10](https://github.com/user-attachments/assets/2d19b43c-f21e-4c46-90aa-fd4cc0c5c0ad)
+![9a53ab26-6a6c-47e3-a8e6-e08bb96d131f](https://github.com/user-attachments/assets/3b7d4b18-f404-4ee5-b715-2ede137771bb)
 
 ---
 
